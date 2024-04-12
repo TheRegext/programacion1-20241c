@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/*
+/**
    Se ingresa un numero y el programa debe mostrar si dicho numero es 
    positivo, negativo o cero
 
