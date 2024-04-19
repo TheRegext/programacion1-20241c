@@ -4,19 +4,21 @@ using namespace std;
 int main() {
    
    int cantDiv;
-   int num = 5;
+   int num = 5, div;
    cantDiv = 0;
+   div = 2;
    
    cout << "Ingrese numero: ";
    cin >> num;
 
-   for(int i=1; i<=num; i++){ /// cuantos divisores 
-      if(num%i == 0){ /// si un numero es divisible por i
+   while(div < num && cantDiv != 1){ /// cuantos divisores 
+      if(num%div == 0){ /// si un numero es divisible por div
          cantDiv++;
       }
+      div++;
    }
    
-   if(cantDiv == 2){
+   if(cantDiv == 0 && num > 1 ){
       cout << num << " es primo."<< endl;
    }
    else{
