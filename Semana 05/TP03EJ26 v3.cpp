@@ -3,7 +3,7 @@ using namespace std;
 
 /***
    dado un intervalo numerico que se ingresa por teclado, informar
-   la cantida de primos que hay.
+   la cantidad de primos que hay.
 
    NOTA: Se ingresa primero el valor inicial del intervalo 
       y por ultimo el valor final
@@ -19,6 +19,7 @@ int main() {
    
    cout << "Ingrese el valor final: ";
    cin >> fin;
+   
    
    
    for(int num=inicio; num <= fin; num++){ /// el for de los numeros
