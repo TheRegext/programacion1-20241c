@@ -44,6 +44,7 @@ int main()
 
     do
     {
+        cout << "ni¤o"<<endl;
         cout << "Ingrese numero: ";
         cin>>numero;
 
