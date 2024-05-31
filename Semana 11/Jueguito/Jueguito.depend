@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1717166629 source:e:\projects\educacion\utn\mañana\programacion1-20241c\semana 11\jueguito\main.cpp
+	<iostream>
+	<ctime>
+	"juego.h"
+	"menu.h"
+
+1717167962 e:\projects\educacion\utn\mañana\programacion1-20241c\semana 11\jueguito\menu.h
+
+1717167114 e:\projects\educacion\utn\mañana\programacion1-20241c\semana 11\jueguito\juego.h
+
