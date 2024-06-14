@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1718376346 source:e:\projects\utn\noche\laboratorio2-20241c\semana 06\virtual\archivosproductos\rlutil\main.cpp
+	<iostream>
+	"rlutil.h"
+
+1718374658 e:\projects\utn\noche\laboratorio2-20241c\semana 06\virtual\archivosproductos\rlutil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
